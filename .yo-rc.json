@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "frridemongo",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1736519712625,
+    "databaseType": "mongodb",
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.8.0",
+    "jwtSecretKey": "NWE4MjczYzhhMTg4Y2Y0MGI2ZjQ2MjM3Y2U3OGM5YmNhNzc3N2Y3OTcwZTc2NTJlNWVkMWJlNGYxNTdiNjgwZjUyZDJjN2ViOTg1NzQzZTdjYjgzZmIyOTlhN2U4MTY2Yjc2NDQzZDY2ZjE5MTBmYWMxNzIzZGVhYTQ2YmRmZDg=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "prodDatabaseType": "mongodb",
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": null,
+    "websocket": null
+  }
+}
